@@ -10,6 +10,6 @@
 ## ![RXJS](https://img.shields.io/badge/RXJS-blue)
 - https://cursos.alura.com.br/certificate/rodrigo-sundfeld/rxjs-angular-programando-forma-reativa
 
-## ![Unit Test](https://img.shields.io/badge/Unit%20Test-green)
+## ![Unit Test](https://img.shields.io/badge/Unit%20Test-brown)
 - https://cursos.alura.com.br/certificate/rodrigo-sundfeld/angular-implemente-testes-unidade-jest
 - https://cursos.alura.com.br/certificate/rodrigo-sundfeld/angular-testes-automatizados-jasmin-karma
