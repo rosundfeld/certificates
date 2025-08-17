@@ -14,7 +14,7 @@
 - https://cursos.alura.com.br/certificate/rodrigo-sundfeld/angular-implemente-testes-unidade-jest
 - https://cursos.alura.com.br/certificate/rodrigo-sundfeld/angular-testes-automatizados-jasmin-karma
 
-## ![Unity](https://img.shields.io/badge/Unit%20Test-gray)
+## ![Unity](https://img.shields.io/badge/Unity-gray)
 - https://cursos.alura.com.br/user/rodrigo-sundfeld/course/criacao-de-jogos-com-unity/certificate
 - https://cursos.alura.com.br/user/rodrigo-sundfeld/course/criacao-de-jogos-com-unity-2/certificate
 - https://cursos.alura.com.br/user/rodrigo-sundfeld/course/criacao-de-jogos-com-unity-3/certificate
